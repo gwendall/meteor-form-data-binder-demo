@@ -1,0 +1,21 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "bootstrap-3": {},
+      "form-data-binder": {}
+    },
+    "packages": {
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.2.0-1",
+        "commit": "17a63902fc6cf1096c5289d963c66cf28b474727"
+      },
+      "form-data-binder": {
+        "git": "https://github.com/Gwendall/meteor-form-data-binder",
+        "tag": "v0.1.2",
+        "commit": "d193fc56d6f575ee6b5d973316b5f78990e0285c"
+      }
+    }
+  }
+}
